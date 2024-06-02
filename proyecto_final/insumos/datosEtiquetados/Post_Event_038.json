@@ -1,8 +1,10 @@
 {
-  "version": "5.4.1",
+  "version": "4.5.12",
   "flags": {},
   "shapes": [
     {
+      "description": "",
+      "mask": null,
       "label": "damagedresidentialbuilding",
       "points": [
         [
@@ -35,12 +37,12 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "",
+      "mask": null,
       "label": "undamagedresidentialbuilding",
       "points": [
         [
@@ -77,12 +79,12 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "",
+      "mask": null,
       "label": "damagedresidentialbuilding",
       "points": [
         [
@@ -103,10 +105,36 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          81.63636363636363,
+          174.8917748917749
+        ],
+        [
+          90.2943722943723,
+          236.36363636363635
+        ],
+        [
+          126.22510822510822,
+          231.16883116883116
+        ],
+        [
+          132.71861471861473,
+          210.82251082251082
+        ],
+        [
+          129.25541125541127,
+          170.56277056277057
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
     }
   ],
   "imagePath": "Post_Event_038.jpg",

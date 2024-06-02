@@ -1,8 +1,10 @@
 {
-  "version": "5.4.1",
+  "version": "4.5.12",
   "flags": {},
   "shapes": [
     {
+      "description": "Damaged Residential Building",
+      "mask": null,
       "label": "damagedresidentialbuilding",
       "points": [
         [
@@ -31,12 +33,12 @@
         ]
       ],
       "group_id": null,
-      "description": "Damaged Residential Building",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "Undamaged Residential Building",
+      "mask": null,
       "label": "undamagedresidentialbuilding",
       "points": [
         [
@@ -69,12 +71,12 @@
         ]
       ],
       "group_id": null,
-      "description": "Undamaged Residential Building",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "",
+      "mask": null,
       "label": "damagedresidentialbuilding",
       "points": [
         [
@@ -99,12 +101,12 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "",
+      "mask": null,
       "label": "damagedresidentialbuilding",
       "points": [
         [
@@ -129,10 +131,48 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          249.16883116883116,
+          298.26839826839824
+        ],
+        [
+          269.5151515151515,
+          278.35497835497836
+        ],
+        [
+          279.90476190476187,
+          264.5021645021645
+        ],
+        [
+          338.34632034632034,
+          292.64069264069263
+        ],
+        [
+          324.06060606060606,
+          318.6147186147186
+        ],
+        [
+          300.25108225108227,
+          308.65800865800867
+        ],
+        [
+          290.2943722943723,
+          319.04761904761904
+        ],
+        [
+          274.27705627705626,
+          322.0779220779221
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
     }
   ],
   "imagePath": "Post_Event_001.jpg",

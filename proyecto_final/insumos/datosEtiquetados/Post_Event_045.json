@@ -1,8 +1,10 @@
 {
-  "version": "5.4.1",
+  "version": "4.5.12",
   "flags": {},
   "shapes": [
     {
+      "description": "",
+      "mask": null,
       "label": "damagedresidentialbuilding",
       "points": [
         [
@@ -23,12 +25,12 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "",
+      "mask": null,
       "label": "undamagedresidentialbuilding",
       "points": [
         [
@@ -49,12 +51,12 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "",
+      "mask": null,
       "label": "damagedresidentialbuilding",
       "points": [
         [
@@ -79,12 +81,12 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "",
+      "mask": null,
       "label": "undamagedresidentialbuilding",
       "points": [
         [
@@ -105,12 +107,12 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "",
+      "mask": null,
       "label": "damagedresidentialbuilding",
       "points": [
         [
@@ -139,10 +141,64 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
+    },
+    {
+      "label": "undamagedcommercialbuilding",
+      "points": [
+        [
+          12.372294372294363,
+          264.0692640692641
+        ],
+        [
+          53.497835497835496,
+          294.3722943722944
+        ],
+        [
+          53.497835497835496,
+          302.5974025974026
+        ],
+        [
+          72.97835497835499,
+          317.3160173160173
+        ],
+        [
+          101.54978354978357,
+          282.25108225108227
+        ],
+        [
+          88.99567099567099,
+          270.12987012987014
+        ],
+        [
+          96.78787878787875,
+          253.24675324675323
+        ],
+        [
+          72.97835497835499,
+          239.39393939393938
+        ],
+        [
+          64.75324675324674,
+          247.61904761904762
+        ],
+        [
+          45.705627705627705,
+          235.06493506493507
+        ],
+        [
+          36.18181818181819,
+          245.45454545454544
+        ],
+        [
+          28.389610389610397,
+          241.99134199134198
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
     }
   ],
   "imagePath": "Post_Event_045.jpg",

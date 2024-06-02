@@ -1,8 +1,10 @@
 {
-  "version": "5.4.1",
+  "version": "4.5.12",
   "flags": {},
   "shapes": [
     {
+      "description": "",
+      "mask": null,
       "label": "damagedresidentialbuilding",
       "points": [
         [
@@ -27,12 +29,12 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "",
+      "mask": null,
       "label": "undamagedresidentialbuilding",
       "points": [
         [
@@ -69,10 +71,48 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
+    },
+    {
+      "label": "undamagedcommercialbuilding",
+      "points": [
+        [
+          115.83549783549785,
+          233.33333333333331
+        ],
+        [
+          158.25974025974023,
+          233.33333333333331
+        ],
+        [
+          161.72294372294374,
+          209.0909090909091
+        ],
+        [
+          156.52813852813853,
+          207.35930735930737
+        ],
+        [
+          153.93073593073592,
+          197.83549783549782
+        ],
+        [
+          121.46320346320346,
+          197.4025974025974
+        ],
+        [
+          123.62770562770561,
+          214.7186147186147
+        ],
+        [
+          118.0,
+          214.28571428571428
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
     }
   ],
   "imagePath": "Post_Event_050.jpg",

@@ -1,8 +1,10 @@
 {
-  "version": "5.4.1",
+  "version": "4.5.12",
   "flags": {},
   "shapes": [
     {
+      "description": "",
+      "mask": null,
       "label": "damagedresidentialbuilding",
       "points": [
         [
@@ -23,12 +25,12 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "",
+      "mask": null,
       "label": "damagedcommercialbuilding",
       "points": [
         [
@@ -65,12 +67,12 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
     },
     {
+      "description": "",
+      "mask": null,
       "label": "undamagedcommercialbuilding",
       "points": [
         [
@@ -115,10 +117,108 @@
         ]
       ],
       "group_id": null,
-      "description": "",
       "shape_type": "polygon",
-      "flags": {},
-      "mask": null
+      "flags": {}
+    },
+    {
+      "label": "undamagedcommercialbuilding",
+      "points": [
+        [
+          125.35930735930737,
+          50.64935064935065
+        ],
+        [
+          125.79220779220776,
+          85.71428571428571
+        ],
+        [
+          252.63203463203462,
+          95.67099567099567
+        ],
+        [
+          251.33333333333331,
+          59.74025974025974
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "damagedcommercialbuilding",
+      "points": [
+        [
+          294.6233766233766,
+          435.49783549783547
+        ],
+        [
+          290.7272727272727,
+          491.7748917748918
+        ],
+        [
+          355.6623376623377,
+          499.56709956709955
+        ],
+        [
+          359.1255411255411,
+          443.2900432900433
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "undamagedcommercialbuilding",
+      "points": [
+        [
+          414.969696969697,
+          359.3073593073593
+        ],
+        [
+          413.2380952380952,
+          403.030303030303
+        ],
+        [
+          416.7012987012987,
+          402.16450216450215
+        ],
+        [
+          437.91341991341994,
+          383.98268398268397
+        ],
+        [
+          437.91341991341994,
+          364.5021645021645
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "undamagedcommercialbuilding",
+      "points": [
+        [
+          335.74891774891773,
+          32.467532467532465
+        ],
+        [
+          392.02597402597405,
+          30.3030303030303
+        ],
+        [
+          390.29437229437224,
+          5.627705627705628
+        ],
+        [
+          337.91341991341994,
+          1.7316017316017316
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
     }
   ],
   "imagePath": "Post_Event_012.jpg",
